@@ -1,3 +1,4 @@
+
 // memory part start 
 const memory8GBButton = document.getElementById('momory-8gb-btn');
 const memory16GBButton = document.getElementById('memory-16gb-btn');
